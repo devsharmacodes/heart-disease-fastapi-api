@@ -45,7 +45,7 @@ heart_disease_api
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/heart-disease-fastapi-api.git
+git clone https://github.com/devsharmacodes/heart-disease-fastapi-api.git
 ```
 
 Install dependencies:
